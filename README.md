@@ -1,5 +1,2 @@
-public class Hello {
-    public static void main(String[] args) {
-        System.out.println("Hello, Java!");
-    }
-}
+Core java program 
+This repository contains Core Java practice programs.
